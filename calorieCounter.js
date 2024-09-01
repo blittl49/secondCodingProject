@@ -98,4 +98,4 @@ function clearForm() {
 
 addEntryButton.addEventListener("click", addEntry);
 calorieCounter.addEventListener("submit", calculateCalories);
-clearForm.addEventListener("click", clearForm);
+clearButton.addEventListener("click", clearForm);
